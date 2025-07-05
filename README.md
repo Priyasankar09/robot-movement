@@ -15,7 +15,6 @@ Each robot:
 
 ## 📁 Folder Structure
 
-```
 
 
 robot\_movement/
