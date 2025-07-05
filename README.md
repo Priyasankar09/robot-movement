@@ -13,20 +13,6 @@ Each robot:
 
 ---
 
-## 📁 Folder Structure
-
-
-
-robot\_movement/
-├── robot.py         # Contains Robot and Terrain classes
-├── test\_robot.py    # Unit test file using unittest module
-├── main.py          # Manual test with sample robot movements
-└── README.md        # Instructions to set up and run the code
-
-
-
----
-
 ## 🔧 How to Set Up and Run the Project
 
 ### Step 1: Clone or Download the Code
