@@ -1,4 +1,4 @@
-```markdown
+
 # Robot Movement Simulation
 
 This is a simple Python project that simulates robots moving in a grid using commands like `N2`, `E3`, `S1`, and `W2`.
@@ -23,7 +23,7 @@ robot\_movement/
 ├── main.py          # Manual test with sample robot movements
 └── README.md        # Instructions to set up and run the code
 
-````
+
 
 ---
 
