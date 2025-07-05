@@ -13,7 +13,7 @@ Each robot:
 
 ---
 
-## 🔧 How to Set Up and Run the Project
+## How to Set Up and Run the Project
 
 ### Step 1: Clone or Download the Code
 
@@ -76,7 +76,7 @@ If you see `OK`, your code is correct!
 
 ---
 
-## 📌 Command Format
+## Command Format
 
 Use 2-character commands to move the robots:
 
@@ -93,7 +93,7 @@ Use 2-character commands to move the robots:
 
 ---
 
-## 🧠 Rules to Remember
+## Rules to Remember
 
 * All robots start at `(0, 0)`
 * Robots cannot go outside the grid
@@ -108,4 +108,3 @@ Use 2-character commands to move the robots:
 * Python 3.6 or higher
 * No third-party packages required (only built-in modules)
 
---
